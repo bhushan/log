@@ -6,6 +6,6 @@ export enum TYPES {
 }
 
 export enum DRIVERS {
-  FILE = 'FILE',
-  CONSOLE = 'CONSOLE',
+  FILE = 'file',
+  CONSOLE = 'console',
 }
